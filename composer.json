@@ -20,8 +20,7 @@
         "symfony/yaml": "5.4.*"
     },
     "require-dev": {
-        "deployer/deployer": "^6.8",
-        "doctrine/doctrine-fixtures-bundle": "^3.4"
+        "deployer/deployer": "^6.8"
     },
     "config": {
         "allow-plugins": {
